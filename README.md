@@ -18,11 +18,11 @@ For [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter).
   ```bat
 cd PATH/TO/PACKAGES
 rd /s /q User
-mklink /d User PATH/TO/SublimeText2UserSettings 
+mklink /d User PATH/TO/SublimeText2UserSettings
   ```
 
 * Mac/Linux
- 
+
   ```sh
 cd PATH/TO/PACKAGES
 rm -rf User
