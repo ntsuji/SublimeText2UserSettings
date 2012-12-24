@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
+	"draw_white_space": "all",
+	"font_face": "Menlo Regular",
+	"font_size": 12,
+	"gpu_window_buffer": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"theme": "Soda Light.sublime-theme",
+	"word_wrap": true
+}
