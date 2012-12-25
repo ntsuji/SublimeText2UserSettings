@@ -4,6 +4,7 @@
 	// "font_size": 12,
 	// "gpu_window_buffer": true,
 
+	// Common Settings
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
 	"draw_white_space": "all",
 	"highlight_line": true,
