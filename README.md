@@ -1,4 +1,4 @@
-# How to install
+# How to use
 
 ## Install Sublime Text 2
 * [Stable](http://www.sublimetext.com/2)
