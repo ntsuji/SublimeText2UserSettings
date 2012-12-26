@@ -1,4 +1,5 @@
 *.*
+!.gitattributes
 !.gitignore
 !.README.md
 !Package Control.sublime-settings
