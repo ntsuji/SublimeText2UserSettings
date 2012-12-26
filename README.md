@@ -15,7 +15,9 @@ For [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter).
 ## Make symblolic link
 * Windows
 
-  ```bat
+  Run Command Prompt as Administrator
+
+  ```
 > cd PATH/TO/PACKAGES
 > rd /s /q User
 > mklink /d User PATH/TO/SublimeText2UserSettings
@@ -23,7 +25,7 @@ For [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter).
 
 * Mac/Linux
 
-  ```sh
+  ```
 $ cd PATH/TO/PACKAGES
 $ rm -rf User
 $ ln -s PATH/TO/SublimeText2UserSettings User
