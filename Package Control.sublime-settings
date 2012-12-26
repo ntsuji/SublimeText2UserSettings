@@ -5,12 +5,15 @@
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"DetectSyntax",
+		"IMESupport",
 		"INI",
 		"Package Control",
+		"Print to HTML",
 		"Solarized Color Scheme",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Theme - Soda",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"VBScript"
 	]
 }
