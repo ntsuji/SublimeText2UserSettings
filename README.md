@@ -18,9 +18,9 @@ For [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter).
   Run Command Prompt as Administrator
 
   ```
-> cd PATH/TO/PACKAGES
+> cd PATH\TO\PACKAGES
 > rd /s /q User
-> mklink /d User PATH/TO/SublimeText2UserSettings
+> mklink /d User PATH\TO\SublimeText2UserSettings
   ```
 
 * Mac/Linux
