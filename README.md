@@ -12,7 +12,7 @@
 ### Install [Node.js](http://nodejs.org/download/)
 For [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter).
 
-### Git Clone SublimeText2UserSettings
+### Git Clone `SublimeText2UserSettings`
 
 ### Make symbolic link
 * Windows
@@ -35,3 +35,9 @@ $ ln -s PATH/TO/SublimeText2UserSettings User
 
 ### Edit `Preferences.sublime-settings`
 Uncomment machine specific settings.
+
+## Uninstall
+
+### Remove symbolic link
+
+### Remove `SublimeText2UserSettings`
