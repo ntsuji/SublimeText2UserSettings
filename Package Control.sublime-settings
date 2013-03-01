@@ -15,5 +15,9 @@
 		"Theme - Soda",
 		"TrailingSpaces",
 		"VBScript"
+	],
+	"repositories":
+	[
+		"https://github.com/facelessuser/BracketHighlighter/tree/BH2"
 	]
 }
