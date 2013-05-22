@@ -2,13 +2,13 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"ApplySyntax",
 		"BracketHighlighter",
 		"ConvertToUTF8",
-		"DetectSyntax",
+		"ExportHtml",
 		"IMESupport",
 		"INI",
 		"Package Control",
-		"Print to HTML",
 		"Solarized Color Scheme",
 		"SublimeCodeIntel",
 		"SublimeLinter",
